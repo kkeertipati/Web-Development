@@ -1,6 +1,6 @@
 # Web-Development
 
-THe below are the pages that I have developed both frontend and backend.
+Below are the pages that I have developed both frontend and backend.
 
 Rutgers MBS Analytics Landing Page: https://datascience.rutgers.edu/ 
 
